@@ -1,6 +1,4 @@
-# Functional Testing with Tagless-Final
-
-([Read on Medium](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6))
+# Functional Testing with Tagless-Final ([read on Medium](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6))
 
 Although it was [recently pronounced dead](https://skillsmatter.com/skillscasts/13247-scala-matters) by
 [John De Goes](https://twitter.com/jdegoes), [tagless-final](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
